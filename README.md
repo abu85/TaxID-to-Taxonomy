@@ -1,4 +1,4 @@
-# TaxID-to-Taxonomy
+# TaxID to Taxonomy
 If you have a file or lists with a number of taxonomic ID or TaxID, this command will produce taxonomic information from kingdom to Species and origins addition to that tax IDS.
 
 ## 1. TaxID to taxonomy assignment
